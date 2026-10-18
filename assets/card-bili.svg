@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title desc">
+  <title id="title">Bili CDN &amp; Preload</title>
+  <desc id="desc">Bili CDN &amp; Preload: Smoother Bilibili overseas: adaptive CDN + 5 min preload (JavaScript · browser extension)</desc>
+  <rect width="600" height="220" rx="18" fill="#F4F6FA"/>
+<g clip-path="url(#c)"><clipPath id="c"><rect width="600" height="220" rx="18"/></clipPath><rect x="0" y="0" width="6" height="220" fill="#FB7299"/>
+<text x="36" y="62" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="28" fill="#0F172A" font-weight="700">Bili CDN &amp; Preload</text>
+<text x="36" y="104" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">Smoother Bilibili overseas:</text>
+<text x="36" y="132" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">adaptive CDN + 5 min preload</text>
+<circle cx="42" cy="183" r="6" fill="#FB7299"/>
+<text x="56" y="189" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5B6577">JavaScript · browser extension</text>
+<g transform="translate(352 42)"><rect x="0" y="92" width="220" height="10" rx="5" fill="#E2E7EF"/><rect x="0" y="92" width="64" height="10" rx="5" fill="#FB7299"/><rect x="64" y="92" width="132" height="10" rx="0" fill="#FB7299" opacity="0.350"/><circle cx="64" cy="97" r="9" fill="#0F172A"/><text x="130" y="132" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#FB7299" text-anchor="middle">+5 min</text><circle cx="30" cy="30" r="12" fill="none" stroke="#5B6577" stroke-width="2"/><path d="M30 42 L 110 88" stroke="#E2E7EF" stroke-width="2" stroke-dasharray="4 5"/><circle cx="110" cy="30" r="12" fill="none" stroke="#FB7299" stroke-width="2"/><path d="M110 42 L 110 88" stroke="#FB7299" stroke-width="2" stroke-dasharray=""/><circle cx="190" cy="30" r="12" fill="none" stroke="#5B6577" stroke-width="2"/><path d="M190 42 L 110 88" stroke="#E2E7EF" stroke-width="2" stroke-dasharray="4 5"/><text x="110" y="6" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#5B6577" text-anchor="middle">CDN</text></g></g>
+</svg>

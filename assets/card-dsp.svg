@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title desc">
+  <title id="title">DSP Auto Navigation</title>
+  <desc id="desc">DSP Auto Navigation: Dyson Sphere Program mod: one key to any star marker (C# · game mod)</desc>
+  <rect width="600" height="220" rx="18" fill="#F4F6FA"/>
+<g clip-path="url(#c)"><clipPath id="c"><rect width="600" height="220" rx="18"/></clipPath><rect x="0" y="0" width="6" height="220" fill="#E08A12"/>
+<text x="36" y="62" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="28" fill="#0F172A" font-weight="700">DSP Auto Navigation</text>
+<text x="36" y="104" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">Dyson Sphere Program mod:</text>
+<text x="36" y="132" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">one key to any star marker</text>
+<circle cx="42" cy="183" r="6" fill="#E08A12"/>
+<text x="56" y="189" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5B6577">C# · game mod</text>
+<g transform="translate(352 42)"><circle cx="14" cy="20" r="2" fill="#5B6577"/><circle cx="60" cy="120" r="1.5" fill="#5B6577"/><circle cx="170" cy="18" r="1.5" fill="#5B6577"/><circle cx="204" cy="74" r="2" fill="#5B6577"/><circle cx="96" cy="52" r="1.2" fill="#5B6577"/><circle cx="140" cy="132" r="1.5" fill="#5B6577"/><circle cx="30" cy="86" r="1.2" fill="#5B6577"/><path d="M24 120 C 70 100, 120 40, 186 34" stroke="#E08A12" stroke-width="2.5" fill="none" stroke-dasharray="6 6"/><circle cx="186" cy="34" r="16" fill="none" stroke="#E08A12" stroke-width="2"/><circle cx="186" cy="34" r="5" fill="#E08A12"/><path d="M24 120 l-10 6 l4 -10 z" fill="#0F172A" transform="rotate(-30 24 120)"/><rect x="0" y="140" width="34" height="26" rx="6" fill="#F4F6FA" stroke="#5B6577" stroke-width="1"/><text x="17" y="159" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#0F172A" font-weight="700" text-anchor="middle">K</text></g></g>
+</svg>
