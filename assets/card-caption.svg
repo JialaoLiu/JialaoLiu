@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" role="img" aria-labelledby="title desc">
   <title id="title">Caption translator</title>
-  <desc id="desc">Caption translator: Live speech becomes pinned bilingual captions (Python · Windows app)</desc>
+  <desc id="desc">Caption translator: Live bilingual captions from local ASR + Ollama translation (Python · PyQt6 · Ollama)</desc>
   <rect width="600" height="220" rx="18" fill="#F4F6FA"/>
 <g clip-path="url(#c)"><clipPath id="c"><rect width="600" height="220" rx="18"/></clipPath><rect x="0" y="0" width="6" height="220" fill="#3B82F6"/>
 <text x="36" y="62" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="28" fill="#0F172A" font-weight="700">Caption translator</text>
-<text x="36" y="104" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">Live speech becomes pinned</text>
-<text x="36" y="132" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">bilingual captions</text>
+<text x="36" y="104" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">Live bilingual captions from</text>
+<text x="36" y="132" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="20" fill="#5B6577">local ASR + Ollama translation</text>
 <circle cx="42" cy="183" r="6" fill="#3B82F6"/>
-<text x="56" y="189" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5B6577">Python · Windows app</text>
+<text x="56" y="189" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#5B6577">Python · PyQt6 · Ollama</text>
 <g transform="translate(352 42)"><rect x="0" y="10" width="220" height="120" rx="12" fill="#0F172A"/><circle cx="18" cy="28" r="5" fill="#F07A6A"/><text x="30" y="33" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#5B6577">LIVE</text><rect x="14" y="58" width="192" height="60" rx="8" fill="#3B82F6" opacity="0.220"/><text x="110" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="16" fill="#F1F5F9" text-anchor="middle">大家好，欢迎来到直播间</text><text x="110" y="106" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="16" fill="#93C5FD" text-anchor="middle">Hi all, welcome in!</text></g></g>
 </svg>

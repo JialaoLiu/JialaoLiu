@@ -1,26 +1,26 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Hi, I&#x27;m Jialao</title>
-  <desc id="desc">Jialao (LLightbreeze), Australia, builds small tools that fix everyday friction: Bili CDN and Preload, Caption translator, DSP Auto Navigation and AU Roadmap.</desc>
+  <desc id="desc">Jialao, AI agent developer at Adelaide University, builds LLM agents and the full-stack apps around them: drone-agent, Caption translator, AU Roadmap, Bili CDN and Preload, DSP Auto Navigation.</desc>
   <rect width="1200" height="320" rx="24" fill="#FFFFFF"/>
 <path d="M560 296 C 700 280, 820 306, 960 290 S 1120 280, 1220 292" stroke="#2563EB" stroke-width="1.5" fill="none" opacity="0.22"/><path d="M620 308 C 760 294, 880 318, 1020 302 S 1160 296, 1220 304" stroke="#2563EB" stroke-width="1.5" fill="none" opacity="0.14"/><path d="M700 318 C 820 308, 940 326, 1080 314 S 1180 310, 1220 316" stroke="#2563EB" stroke-width="1.5" fill="none" opacity="0.08"/>
-<text x="64" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#5B6577" letter-spacing="2">LLIGHTBREEZE  ·  AUSTRALIA</text>
+<text x="64" y="84" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#5B6577" letter-spacing="2">AI AGENT DEVELOPER  ·  ADELAIDE UNIVERSITY</text>
 <text x="62" y="156" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="64" fill="#0F172A" font-weight="700" letter-spacing="-1">Hi, I'm Jialao</text>
-<text x="64" y="200" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="24" fill="#0F172A">I build small tools that fix everyday friction.</text>
+<text x="64" y="200" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="24" fill="#0F172A">I build LLM agents and the full-stack apps around them.</text>
 <text x="64" y="252" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5B6577"><tspan fill="#2563EB">›</tspan> now building</text>
-<text x="64" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#0284C7" opacity="1.000">AI agents fly solar inspections in sim</text>
+<text x="64" y="284" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="22" fill="#0284C7" opacity="1.000">LangGraph agents that plan + fly solar inspections</text>
 <rect x="800" y="52" width="336" height="38" rx="19" fill="#F4F6FA" stroke="#0284C7" stroke-width="1"/>
 <circle cx="822" cy="71" r="6" fill="#0284C7" opacity="1"/>
 <text x="840" y="78" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#0F172A" font-weight="600">drone-agent</text>
 <rect x="800" y="100" width="336" height="38" rx="19" fill="#FFFFFF" stroke="#E2E7EF" stroke-width="1"/>
-<circle cx="822" cy="119" r="6" fill="#FB7299" opacity="0.45"/>
-<text x="840" y="126" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">Bili CDN &amp; Preload</text>
+<circle cx="822" cy="119" r="6" fill="#3B82F6" opacity="0.45"/>
+<text x="840" y="126" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">Caption translator</text>
 <rect x="800" y="148" width="336" height="38" rx="19" fill="#FFFFFF" stroke="#E2E7EF" stroke-width="1"/>
-<circle cx="822" cy="167" r="6" fill="#3B82F6" opacity="0.45"/>
-<text x="840" y="174" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">Caption translator</text>
+<circle cx="822" cy="167" r="6" fill="#0EA5A0" opacity="0.45"/>
+<text x="840" y="174" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">AU Roadmap</text>
 <rect x="800" y="196" width="336" height="38" rx="19" fill="#FFFFFF" stroke="#E2E7EF" stroke-width="1"/>
-<circle cx="822" cy="215" r="6" fill="#E08A12" opacity="0.45"/>
-<text x="840" y="222" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">DSP Auto Navigation</text>
+<circle cx="822" cy="215" r="6" fill="#FB7299" opacity="0.45"/>
+<text x="840" y="222" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">Bili CDN &amp; Preload</text>
 <rect x="800" y="244" width="336" height="38" rx="19" fill="#FFFFFF" stroke="#E2E7EF" stroke-width="1"/>
-<circle cx="822" cy="263" r="6" fill="#0EA5A0" opacity="0.45"/>
-<text x="840" y="270" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">AU Roadmap</text>
+<circle cx="822" cy="263" r="6" fill="#E08A12" opacity="0.45"/>
+<text x="840" y="270" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="19" fill="#5B6577">DSP Auto Navigation</text>
 </svg>
