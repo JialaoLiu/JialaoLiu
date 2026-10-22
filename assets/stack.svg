@@ -1,18 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-labelledby="title desc">
   <title id="title">Toolbox</title>
-  <desc id="desc">AI agents and LLM: LangGraph, MCP, DeepSeek and OpenAI APIs, Ollama, speech models. Full-stack: Vue 3, TypeScript, FastAPI, Node.js, Express, MySQL. Also: Python, PX4 and Gazebo simulation, browser extensions, C# and Unity modding.</desc>
+  <desc id="desc">AI agents and LLM: LangGraph, MCP, Claude Code and Codex, DeepSeek and OpenAI APIs, Ollama, speech models. Full-stack: Vue 3, TypeScript, FastAPI, Node.js, Express, MySQL. Also: Python, PX4 and Gazebo simulation, browser extensions, C# and Unity modding.</desc>
   <rect width="1200" height="290" rx="24" fill="#FFFFFF"/>
 <text x="64" y="42" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#2563EB" letter-spacing="2">AI AGENTS + LLM</text>
 <rect x="64" y="56" width="125" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
 <text x="126.5" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">LangGraph</text>
 <rect x="199" y="56" width="63" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
 <text x="230.5" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">MCP</text>
-<rect x="272" y="56" width="260" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
-<text x="402.0" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">DeepSeek / OpenAI APIs</text>
-<rect x="542" y="56" width="94" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
-<text x="589.0" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">Ollama</text>
-<rect x="646" y="56" width="167" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
-<text x="729.5" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">speech models</text>
+<rect x="272" y="56" width="229" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
+<text x="386.5" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">Claude Code + Codex</text>
+<rect x="511" y="56" width="260" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
+<text x="641.0" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">DeepSeek / OpenAI APIs</text>
+<rect x="781" y="56" width="94" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
+<text x="828.0" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">Ollama</text>
+<rect x="885" y="56" width="167" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
+<text x="968.5" y="82" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">speech models</text>
 <text x="64" y="126" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" fill="#2563EB" letter-spacing="2">FULL-STACK</text>
 <rect x="64" y="140" width="84" height="40" rx="20" fill="#F4F6FA" stroke="#E2E7EF" stroke-width="1"/>
 <text x="106.0" y="166" font-family="-apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;PingFang SC&quot;, &quot;Microsoft YaHei&quot;, sans-serif" font-size="18" fill="#0F172A" text-anchor="middle">Vue 3</text>
