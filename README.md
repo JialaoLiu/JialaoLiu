@@ -14,5 +14,9 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JialaoLiu&show_icons=true&custom_title=GitHub%20stats&bg_color=F4F6FA&title_color=0F172A&text_color=5B6577&icon_color=2563EB&ring_color=2563EB&border_color=E2E7EF&border_radius=18" alt="GitHub stats: total stars, commits, PRs and issues">
+</p>
+
+<p align="center">
   <img src="./assets/stack.svg" width="100%" alt="Toolbox. AI agents and LLM: LangGraph, MCP, Claude Code and Codex, DeepSeek and OpenAI APIs, Ollama, speech models. Full-stack: Vue 3, TypeScript, FastAPI, Node.js, Express, MySQL. Also: Python, PX4 and Gazebo simulation, browser extensions, C# and Unity modding.">
 </p>
